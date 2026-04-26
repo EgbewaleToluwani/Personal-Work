@@ -1,0 +1,110 @@
+#title{
+    color: white;
+    margin-top: 3.76%;
+}
+
+#first{
+    background-color: #dce8f6;
+    margin-left: 5%;
+    width: 20%;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 3.76%;    
+}
+
+#second{
+    background-color: #f4f4f2;
+    width: 20%;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 3.76%;
+    padding-top: 5.03%;
+}
+
+#third{
+    background-color: #f3c7cc;
+    width: 18%;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 4.51%;
+    padding-bottom: 4.81%;
+    padding-left: 5.03%;
+    padding-top: 5.48%;
+}
+
+#text1{
+    margin-left: 5%;
+    background-color: white;
+    width: 23.8%;
+    height: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 1.88%;
+    font-size: 17px;
+    font-family: sans-serif;    
+}
+
+#text2{
+    background-color: white;
+    width: 23%;
+    height: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-top: 1.5%;
+    padding-left: 2.25%;
+    padding-right: 2.25%;
+    padding-bottom: 2%;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+#text3{
+    background-color: white;
+    width: 23%;
+    height: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-top: 1.5%;
+    padding-left: 2.25%;
+    padding-right: 2.25%;
+    padding-bottom: 2%;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.learnmore{
+    background-color: #0d8b7b;
+    color: white;
+    padding: 10px;
+    width: 40%;
+    height: 16.66%;
+    border-color: #0d8b7b;
+    border-radius: 7px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+#fourth{
+    background-color: #dce8f6;
+    margin-left: 5%;
+    width: 20%;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 3.76%; 
+}
+
+#text4{
+    margin-left: 5%;
+    background-color: white;
+    width: 23.8%;
+    height: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 1.88%;
+    font-size: 17px;
+    font-family: sans-serif;
+}
