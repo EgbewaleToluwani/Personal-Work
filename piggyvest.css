@@ -1,0 +1,101 @@
+#everything{
+    background-color: white;
+    padding: 3%;
+    font-family: ;
+}
+
+#heading{
+    font-family: "Plus Jakarta Sans", sans-serif;    
+    font-size: 48px;
+}
+
+#subheading{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 24px;
+}
+
+#automated{
+    width: 32%;    
+    height: 430px;
+    background-color: #d8f4ff;
+    border-radius: 30px;    
+}
+
+#automatedtext{
+    padding-top: 15%;
+    padding-left: 7%;
+}
+
+#fixed{
+    width: 32%;    
+    height: 430px;
+    background-color: #f1f6f7;
+    border-radius: 30px;
+}
+
+#fixedtext{
+    padding-top: 15%;
+    padding-left: 7%;
+    padding-right: 15%;
+}
+
+#goal{
+    width: 32%;    
+    height: 430px;
+    background-color: #d7ffef;
+    border-radius: 30px;
+}
+
+#goaltext{
+    padding-top: 15%;
+    padding-left: 7%;
+    padding-right: 15%;
+}
+
+#emergency{
+    width: 32%;    
+    height: 430px;
+    background-color: #fbebff;
+    border-radius: 30px;
+}
+
+#emergencytext{
+    padding-top: 15%;
+    padding-left: 7%;
+    padding-right: 10%;
+}
+
+#dollar{
+    width: 32%;    
+    height: 430px;
+    background-color: #fcfcfc;
+    border-radius: 30px;
+}
+
+#dollartext{
+    padding-top: 15%;
+    padding-left: 7%;
+}
+
+#rent{
+    width: 32%;    
+    height: 430px;
+    background-color: #ffedd6;
+    border-radius: 30px;
+}
+
+#renttext{
+    padding-top: 15%;
+    padding-left: 7%;
+}
+
+.neue{
+    font-family: "Comic Neue";
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.jakartasmall{
+     font-family: "Plus Jakarta Sans", sans-serif;
+     font-size: 14px;
+}
