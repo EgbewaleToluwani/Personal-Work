@@ -1,0 +1,81 @@
+#left{
+    margin-left: 2vw;
+    background: linear-gradient(91deg, #5434EF -0.43%, #7730F7 32.45%, #992BFF 65.34%, #7330DF 113.31%);
+    width: 47%;
+    height: 55vh;
+    border-radius: 20px;
+}
+
+#lefttxt{
+    width: 47%;
+    padding-left: 5%;
+    /* margin-top: 1px; */
+    font-family: "Noto Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.795);
+}
+
+#lh{
+    font-size: 24px;
+    height: 8vh;
+}
+
+#lp{
+    font-size: 14px;
+}
+
+.button{
+    font-size: 14px;
+    width: 8vw;
+    height: 6vh;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.288);
+    background: local;
+    color: white;
+
+}
+
+#leftimg{
+    width: 50%;
+    justify-self: right;
+}
+
+#right{
+    background: linear-gradient(331deg, #7D2AE8 21.98%, #5A32FA 41.48%, #00C4CC 99.96%);
+    width: 47%;
+    height: 55vh;
+    border-radius: 20px;
+}
+
+#righttxt{
+    width: 47%;
+    padding-left: 5%;
+    /* margin-top: 1px; */
+    font-family: "Noto Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.795);
+}
+
+#addon{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 12px;
+    margin-top: 5vh;
+    border: 1px solid white;
+    width: 5vw;
+    height: 3vh;
+    border-radius: 15px;
+    
+}
+
+#rh{
+    font-size: 24px;
+    height: 9vh;
+
+}
+
+#rp{
+    font-size: 14px;
+}
+
+#rightimg{
+    width: 50%;
+    justify-self: right;
+}
