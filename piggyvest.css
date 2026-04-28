@@ -99,3 +99,21 @@
      font-family: "Plus Jakarta Sans", sans-serif;
      font-size: 14px;
 }
+
+#interestbutton{
+    justify-self: center;
+    /* justify-content: center; */
+    background-color: blue;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 16px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+    width: auto;
+    height: auto;
+}
+
+#plus{
+    padding-top: 15px;
+}
