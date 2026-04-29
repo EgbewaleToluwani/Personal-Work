@@ -2,6 +2,8 @@
     background-color: white;
     padding: 3%;
     font-family: ;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
 }
 
 #heading{
@@ -116,4 +118,106 @@
 
 #plus{
     padding-top: 15px;
+}
+
+
+#everything2{
+    padding: 3%;
+    color: white;
+}
+
+#investify{
+    font-family: "Plus Jakarta Sans", sans-serif;  
+    font-size: 16px;
+    background-color: #ffb8ff;
+    color: #6624cc;
+    width: 8vw;
+    height: 4vh;
+    text-align: center;
+    border-radius: 25px;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 0.7%;
+    display: flex;
+    gap: 10px;
+    align-content: center;
+    justify-content: center;
+}
+
+#start{
+    width: 60vw;
+}
+
+#stinv{
+    font-size: 64px;
+    font-family: "Comic Neue", sans-serif;
+    height: 15vh;
+    font-weight: 600px;
+}
+
+#pinv{
+    font-family: "Plus Jakarta Sans", sans-serif;  
+    font-size: 16px;
+    width: 35vw;
+    /* font-weight: 300px; */
+}
+
+.box{
+    width: 32%;    
+    height: 430px;    
+    border-radius: 30px;   
+}
+
+.no1{
+    background-color: #7913e5;
+    align-content: center;
+}
+
+.no1-imgs{
+    width: 70%;
+    height: 22%;
+    justify-self: center;
+}
+
+.no2{
+    background-color: #d8f4ff;
+}
+
+.no3{
+    background-color: #ffc049;
+    align-content: end;
+}
+
+#just{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#undertext{
+    display: flex;
+    gap: 30px;
+}
+
+.text{
+    font-size: 16px;
+    font-family: "Plus Jakarta Sans", sans-serif;  
+    width: 32%;
+    
+}
+
+.smallhead{
+    height: 2vh;   
+}
+
+#sp1{
+    margin-right: 3vw;
+}
+
+#sp2{
+    margin-right: 1.8vw;
+}
+
+#sp3{
+    margin-right: 4vw;
 }
